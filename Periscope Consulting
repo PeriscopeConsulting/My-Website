@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Periscope Consulting</title>
+  </head>
+  <body>
+    <header>
+      <h1>Periscope Consulting</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section id="services">
+        <h2>Our Services</h2>
+        <p>Periscope Consulting offers project management services for businesses of all sizes. Our team of experts will work with you to help you achieve your project goals.</p>
+      </section>
+      <section id="about">
+        <h2>About Us</h2>
+        <p>Periscope Consulting is a project management company that has been helping businesses achieve their goals for many years. Our team of experts has the knowledge and experience to help you succeed.</p>
+      </section>
+      <section id="contact">
+        <h2>Contact Us</h2>
+        <p>To learn more about Periscope Consulting and how we can help your business, please contact us at info@periscopeconsulting.com.</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; Periscope Consulting 2023</p>
+    </footer>
+  </body>
+</html>
